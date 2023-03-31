@@ -27,7 +27,7 @@ const Skill = () => {
         { id: "17", skillType: 'tools', skill: "Web Pack", expertLevel: 90 },
         { id: "18", skillType: 'tools', skill: "VSCode", expertLevel: 95 },
         { id: "19", skillType: 'tools', skill: "Dev Tool", expertLevel: 90 },
-        { id: "20", skillType: 'tools', skill: "Photoshop", expertLevel: 85 },
+       
         { id: "21", skillType: 'tools', skill: "Illustrator", expertLevel: 70 },
     ];
 
